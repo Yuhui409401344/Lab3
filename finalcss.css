@@ -112,6 +112,19 @@ h1{
 .btn2:hover{
     transform: scale(1.28);
 }
+.btn3{
+    margin-left: 20px;
+    padding: 5px 5px;
+    background-color: 	#FFD9EC;
+    border-radius: 5px;
+    color: 	#F00078;
+    font-size: 2px;
+    border: none;
+    transition: 0.7s ease;  
+}
+.btn3:hover{
+    transform: scale(1.28);
+}
 a{
     color: #FFF7FB;
     text-decoration: none;
@@ -141,5 +154,6 @@ a{
         flex-wrap: wrap;
        
     }
+    
 
 }
